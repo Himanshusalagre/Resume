@@ -1,0 +1,33 @@
+body{
+	margin-top:10%;
+	margin-bottom:10%;
+	margin-left:20%; 
+	margin-right: 20%;
+	
+
+}
+
+p{
+	text-align:right;
+	font-family:Arial; 
+}
+
+h2{
+	color:blue;
+	font-family:Garamond;
+}
+table{
+    margin:10px; 
+	color:blue;
+	border-color:blue;
+	border-width:1px;
+	border-style:solid;  
+
+}
+td{
+	color:black;
+	border-color:blue;
+}
+tr{
+	color:blue;
+}
